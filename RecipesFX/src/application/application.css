@@ -1,0 +1,14 @@
+#header 
+{
+	-fx-background-color: linear-gradient(#42aaf4, #3c8cc4);
+}
+
+#left
+{
+	-fx-background-color: #f9f9f9;
+}
+
+#right
+{
+	-fx-background-color: #f9f9f9;
+}
